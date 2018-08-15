@@ -1,0 +1,34 @@
+img{padding-top:10px;
+}
+
+header{
+  background:url(../img/color.jpg) !important;
+  height: 200px !important;
+}
+
+body{
+    background:url(../img/salta.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color:#151517;
+    font-family: 'Courgette', cursive;
+    }
+
+
+
+
+p{
+  font-family: 'Courgette', cursive;
+  }
+
+
+  h1, h2, h4, h3, h5, h6{
+    font-family: 'Courgette', cursive;
+
+    }
+
+  h1, h4, h5{
+   color:white;
+   align="center"
+
+    }

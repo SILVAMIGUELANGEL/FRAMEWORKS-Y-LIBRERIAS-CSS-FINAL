@@ -1,0 +1,58 @@
+body{
+    background:url(../img/Catamarca.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color:#151517;
+
+}
+
+.row {
+background-color: rgba(0,0,112,0.3);
+
+}
+
+
+
+h4{
+font-family: 'Courgette', cursive;
+font-weight: bold;
+color:#151517;
+}
+
+h3{
+font-family: 'Courgette', cursive;
+font-weight: bold;
+color:#151517;
+}
+
+h1{
+text-align: center;
+font-family: 'Courgette', cursive;
+font-weight: bold;
+}
+
+h5{
+color:#151517;
+font-family: 'Courgette', cursive;
+
+}
+
+h6{
+font-family: 'Courgette', cursive;
+}
+
+p {
+font-family: 'Courgette', cursive;
+}
+
+.fondo {
+background-color: #73C6B6;
+font-family: 'Courgette', cursive;
+}
+
+
+
+.submit_btn {
+background-color:#DD9248;
+
+}
